@@ -42,5 +42,7 @@ Finally, the three main variables that best correlate to host_is_superhost are:
 1- number_of_reviews_ltm (last twelve months)
 2- number_of_reviews_l30d (last 30 days)
 3- number_of_reviews
+
+For a more detailed take, one can read the blogpost about this [project](https://abdulrahman-almutlaq.medium.com/airbnb-ing-a-property-in-boston-soon-heres-what-you-need-to-consider-6a8d27776a33)
 # Acknowledgments
 I would like to thank Airbnb for providing the dataset used for this analysis. Additionally, I would like to thank the various libraries used in this project and ChatGPT, without which this analysis would not have been possible, .
