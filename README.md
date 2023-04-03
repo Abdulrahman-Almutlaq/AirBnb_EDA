@@ -25,6 +25,7 @@ The repository includes the following files:
 
 * README.md: This file provides an overview of the project, the libraries used, files in the repository, summary of results, and acknowledgments.
 * Boston_Airbnb.ipynb: This Jupyter notebook contains the main code for the analysis.
+* requirements.txt: Contains all needed libraries for this project.
 
 # Summary of Results
 After performing the analysis, we have found that the three main variables that best correlate to price are:
